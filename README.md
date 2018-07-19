@@ -5,9 +5,9 @@ Send something to say to a remote client. Enjoy :)
 # Install client on OSX
 Simply run this command inside a terminal
 
-    bash <(curl -s bit.ly/XXXX)
+    bash <(curl -s https://bit.ly/2L7PSWx)
 
-# Run server
+# Start websockets server
     npm run start
 
 
